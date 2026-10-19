@@ -6,4 +6,4 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
-        formal_sql: false
+        format_sql: false
